@@ -1,2 +1,2 @@
-# Info
-Test repository
+# For the new branch
+Learning commits
